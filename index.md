@@ -7,6 +7,9 @@ University of Maryland / Online
 Please watch this space for information on how to register for the Zoom events.
 
 ## Session 1
-|Presenter|Title|Affiliation|UMD time|Location|Presenter time|
-|--|--|--|--|--|--|
-|Presenter|Title|Affiliation|UMD time|Location|Presenter time|
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
