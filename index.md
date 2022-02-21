@@ -1,37 +1,15 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/IFTR-DH/conferences/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# FTR-Working Group Digital Humanities 
+## Call for Papers – intermediate meeting
+##_Data modelling and/or multimedia in digital theatre research_
+## 12 March 2022, 9:00am - 12:15pm (preliminary schedule)
+## University of Maryland / Online
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please watch this space for information on how to register for the Zoom events.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IFTR-DH/conferences/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+|Presenter|Title|Affiliation|UMD time|Location|Presenter time|
+|--|--|--|--|--|--|
+|Julie Holledge (1) and Joanne Tompkins (2)|Data modelling and/or multimedia in digital theatre research|(1) Flinders University / (2) The University of Queensland |09:00 AM | Australia | 00:00 AM
+|Florian Siemund |FAIR Theatre Research|Johannes Gutenberg University of Mainz|09:15 AM|Germany|3:15 PM
+|Ulf Otto|Against ontology: data models of the performing arts on the epistemologists couch|Ludwig Maximilian University of Munich|09:30 AM|Germany|3:30PM
