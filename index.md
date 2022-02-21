@@ -1,5 +1,4 @@
-## FTR-Working Group Digital Humanities 
-Intermediate meeting
+## IFTR-Working Group Digital Humanities Satellite Meeting
 
 # Data modelling and/or multimedia in digital theatre research
 12 March 2022, 9:00am - 12:15pm (preliminary schedule)
@@ -19,6 +18,7 @@ _Break 10:15 - 10:45 AM (UMD Time)_
 
 ## Session 2
 |Presenter|Title|Affiliation|UMD time|Location|Presenter time|
+|--|--|--|--|--|--|
 |Mylène Maignant|Mapping British Theatre Criticism Thanks to Numbers|Université PSL (Paris Sciences & Lettres)|10:45 AM|France|4:45 PM|
 Gabriel Viehhauser and Kirsten Dickhaut|Theater texts as sources for historical performances – a corpus-based digital approach|University of Stuttgart|11:00 AM|
 Germany|5:00 PM
